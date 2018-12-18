@@ -1,0 +1,15 @@
+{
+  "name": "pdf_to_jpg",
+  "version": "1.0.0",
+  "description": "Convert pdf to jpg images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "chuongtrh",
+  "license": "ISC",
+  "dependencies": {
+    "graphicsmagick": "0.0.1",
+    "pdf-image": "^2.0.0"
+  }
+}
